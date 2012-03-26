@@ -1,0 +1,61 @@
+IdentTable
+2 3
+0 0 -1
+0 1 -2
+
+OPTable
+8 9
+-2 -3 -3 -3 -3 -3 -3 -3 -3
+-1 -1 -1 -2 -1 -1 -1 -1 -1
+-1 -1 -1 -2 -1 -1 -1 -1 -1
+-1 -1 -1 -2 -1 -1 -1 -1 -1
+-1 -1 -1 -2 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -2 -1  -1 -1
+-1 -1 -1 -1 -1 -1 -2 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -2 -1
+
+CommentTable
+4 4
+3 1 -3 -3
+1 2 1 1
+-1 2 1 1
+3 3 -2 3
+
+StringTable
+6 6
+-1 1 0 0 -2 0
+5 4 2 3 -2 -3
+-1 1 0 0 -2 0
+-1 1 0 0 -2 0
+-1 1 0 0 -2 0
+-1 1 0 0 -2 0
+
+DigitalTable
+8 7
+0 3 1 -4 -4 -2 0
+2 3 -1 -1 -1 -2 2
+2 3 -1 -1 -1 -2 2 
+5 -1 -1 4 -1 -2 5
+5 -1 -1 -1 -1 -2 5
+5 -1 -1 -1 -1 -2 5
+-3 -2 1 -1 -1 -2 6
+-2 -2 -2 -2 -2 7 -2
+
+
+KeyTables
+13
+bool BOOL
+double DOUBLE
+else ELSE
+false FALSE
+if IF
+int INT
+null NULL
+read READ
+string STRING
+true TRUE
+void VOID
+while WHILE
+write WRITE
+
+end
